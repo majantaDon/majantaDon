@@ -1,4 +1,4 @@
-## Hi, I’m Don 👋
+## Hi, I’m Sameer Singh 👋
 
 I’m a college student with a strong interest in software development and problem-solving.  
 I enjoy building small projects, learning core programming concepts, and improving my skills through hands-on practice and collaboration.
